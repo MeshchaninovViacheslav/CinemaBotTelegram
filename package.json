@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "dependencies": {
   },
-  "token": "1751532400:AAH5VoEfF-XiafQtDaY9JX1QPH_jOF_gl4k",
-  "api_search_url": "https://api.themoviedb.org/3",
-  "api_key": "9bf048b1c99fb928c82f66f90a7ad344",
   "NOT_FOUND_RESPONSE": "Ooops... I didn't find any movie :(\nTry reformulate your query.",
   "ru_language": "ru",
   "en_language": "en",
